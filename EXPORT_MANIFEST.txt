@@ -1,0 +1,20 @@
+
+OpenClaw配置导出清单
+=======================
+导出时间: Thu 19 Feb 15:23:32 CST 2026
+
+1. 核心定义文件:
+   - SOUL.md (AI人格)
+   - USER.md (用户信息)
+   - IDENTITY.md (身份定义)
+   - AGENTS.md (工作方法)
+
+2. 重要规划文档:
+   - company-roadmap.md
+   - GAME_PORTFOLIO_PLAN.md
+   - ARCHITECTURE_ANALYSIS.md
+   - SUBAGENT_TEAM_REPORT.md
+
+3. 技能配置:
+   - OpenClaw/skills/
+
